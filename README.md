@@ -174,9 +174,23 @@ Results are consistent with cross-validation, indicating good generalization and
 
 Key visualizations (stored under the `figures/` directory):
 
-- Confusion matrix  
-- ROC curve  
-- Precision–Recall curve  
+ ### Descriptor Boxplots (Active vs Inactive)
+![Descriptor boxplots](figures/descriptor_boxplots.png)
+
+### Descriptor Histograms
+![Descriptor histograms](figures/descriptor_histograms.png)
+
+### Correlation Heatmap of Molecular Descriptors
+![Correlation heatmap](figures/correlation_heatmap_descriptors.png)
+
+### Confusion Matrix
+![Confusion matrix](figures/confusion_matrix.png)
+
+### ROC Curve
+![ROC curve](figures/roc_curve.png)
+
+### Precision–Recall Curve
+![Precision–Recall curve](figures/precision_recall_curve.png)
 
 ---
 
